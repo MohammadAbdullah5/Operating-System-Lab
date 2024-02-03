@@ -96,11 +96,35 @@
 
 # Task 3
 
-## Create a GitHub repository of name "Operating System Lab"
+## 1. Create a GitHub repository of name "Operating System Lab"
 
 ![Screenshot (192)](C:\Users\92309\OneDrive\Pictures\Screenshots\Screenshot (192).png)
 
+## 2. Go to your directory where your files are which you want to push to repository. Right click and then select Git Bash Here.
 
+![Screenshot (193)](C:\Users\92309\OneDrive\Pictures\Screenshots\Screenshot (193).png)
+
+## 3. Run the command `git init`.
+
+![image-20240203223050947](C:\Users\92309\AppData\Roaming\Typora\typora-user-images\image-20240203223050947.png)
+
+## 4. Add the files you want to push to repository.
+
+![image-20240203223332860](C:\Users\92309\AppData\Roaming\Typora\typora-user-images\image-20240203223332860.png)
+
+## 5. Commit these files with a message.
+
+![image-20240203223424385](C:\Users\92309\AppData\Roaming\Typora\typora-user-images\image-20240203223424385.png)
+
+## 6. Add the link of repository.
+
+![image-20240203223542604](C:\Users\92309\AppData\Roaming\Typora\typora-user-images\image-20240203223542604.png)
+
+## 7. Now push these files with `command git push -u origin master`.
+
+![image-20240203224425014](C:\Users\92309\AppData\Roaming\Typora\typora-user-images\image-20240203224425014.png)
+
+# GitHub Operating System Lab Repository Link
 
 [GitHub Repository Link](https://github.com/MohammadAbdullah5/Operating-System-Lab)
 
